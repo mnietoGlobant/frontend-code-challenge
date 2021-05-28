@@ -1,5 +1,5 @@
 import React from 'react';
-import '../App.css';
+import '../styles/Home.css';
 import PropTypes from 'prop-types';
 
 function ListComponent(data, input) {
