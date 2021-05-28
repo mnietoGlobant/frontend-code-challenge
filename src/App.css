@@ -235,6 +235,11 @@ input {
     margin: auto;
     margin-top: 1rem;
 }
+.wrapper{
+    overflow-y: scroll !important;
+    padding-bottom: 0.2rem;
+    height: 800px;
+}
 .suggestions {
     width: 80%;
     margin: auto;
